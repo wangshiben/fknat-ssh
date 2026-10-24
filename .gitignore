@@ -1,2 +1,10 @@
-./.idea
-./packaging
+# IntelliJ IDEA
+.idea/
+
+# Packaging and release outputs
+packaging/
+releases/
+
+# Go build outputs
+/fknat-ssh
+/fknat-ssh.exe
